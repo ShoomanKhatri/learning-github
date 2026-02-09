@@ -1,1 +1,2 @@
 We are learning git and github.
+day 2
